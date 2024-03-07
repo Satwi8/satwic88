@@ -7,6 +7,10 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satwi8/satwic88.git"
+  },
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
